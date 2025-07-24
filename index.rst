@@ -10,7 +10,7 @@ Visit `activate.uhc.com <https://activate.uhc.com>`_ to activate your UnitedHeal
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://pre.im/?r4Ekguug57HWe75kRasiWc3aDOHYDwrj6MXrD2d0M7OxjJcjhAoj4owo1nLZ1GksWnc
+   :target: https://pre.im/?BJor28F04QULeqDk7oHQtPkswL1xPHS2sp1fNIi4cXg6514ZEwc8BT3VxbupDI
 
 .. raw:: html
 
